@@ -1,0 +1,6 @@
+[package]
+name = "capsule"
+type = "contract"
+authors = [""]
+
+[dependencies]
